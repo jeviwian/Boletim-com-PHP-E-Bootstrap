@@ -1,2 +1,4 @@
-# Boletim-com-PHP
-Boletim em PHP , com uso de Bootstrap 
+# Boletim em PHP, com bootstrap
+
+Para a execução dos arquivos será necessário a instalação do Laragon ou XAMPP , para rodar o projeto.
+
